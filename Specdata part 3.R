@@ -16,4 +16,4 @@ corR<- function(directory, threshold=0){
   return(dataframe)
 }
 getwd()
-
+setwd("D://NEU//Data Mining")
